@@ -4,6 +4,45 @@ Agora é só dev
 testando 
 poque 
 
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+~~this~~
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+```
+c
+function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+ ```
+ 
+ As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+
 
 You can use the [editor on GitHub](https://github.com/edsonjeske/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -13,7 +52,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 [link to Google!](http://www.gridya.com.br)
-![Image](https://drive.google.com/open?id=1ryBrGNZ-eHxShXu_AqG5i4OAzx4JgGzJ)
+![](https://drive.google.com/file/d/1lGZnmoOInjuvDEaVAgMgfUqLPWdAXUQQ)
 
 ```markdown
 Syntax highlighted code block
@@ -30,7 +69,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![nanofox](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
