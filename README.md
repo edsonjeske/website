@@ -52,7 +52,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 [link to Google!](http://www.gridya.com.br)
-![Image](nano.bmp)
+![](https://drive.google.com/file/d/1lGZnmoOInjuvDEaVAgMgfUqLPWdAXUQQ)
 
 ```markdown
 Syntax highlighted code block
