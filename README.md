@@ -1,9 +1,7 @@
 ## Welcome to GitHub Pages
 
 Agora é só dev
-
 testando 
-
 poque 
 
 
@@ -14,9 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-
-(http://www.gridya.com.br) teste
+http://www.gridya.com.br
 
 ```markdown
 Syntax highlighted code block
